@@ -1,0 +1,14 @@
+com/bcit/musicmania/MusicFunAdapter.java
+ com.bcit.musicmania.MusicFunAdapter
+ com.bcit.musicmania.MusicFunAdapter$MusicFunViewHolder
+com/bcit/musicmania/OnMusicFunListener.java
+ com.bcit.musicmania.OnMusicFunListener
+com/bcit/musicmania/BuildConfig.java
+ com.bcit.musicmania.BuildConfig
+com/bcit/musicmania/MainActivity.java
+ com.bcit.musicmania.MainActivity
+ com.bcit.musicmania.MainActivity$1
+com/bcit/musicmania/MusicFunService.java
+ com.bcit.musicmania.MusicFunService
+ com.bcit.musicmania.MusicFunService$1
+ com.bcit.musicmania.MusicFunService$MusicFunBinder
