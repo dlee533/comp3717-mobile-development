@@ -1,0 +1,4 @@
+com/bcit/lec6/BuildConfig.java
+ com.bcit.lec6.BuildConfig
+com/bcit/lec6/MapsActivity.java
+ com.bcit.lec6.MapsActivity
