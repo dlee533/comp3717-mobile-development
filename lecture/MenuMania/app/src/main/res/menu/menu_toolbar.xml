@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:orderInCategory="300"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_mute"
+        android:icon="@android:drawable/ic_lock_silent_mode"
+        android:orderInCategory="100"
+        android:title="Mute"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/empty"
+        android:orderInCategory="300"
+        android:title="Info"
+        app:showAsAction="collapseActionView">
+    </item>
+
+</menu>

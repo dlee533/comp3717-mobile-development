@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MenuMania</string>
+    <string name="Inbox">Inbox</string>
+    <string name="Drafts">Drafts</string>
+    <string name="sent_items">Sent Items</string>
+    <string name="trash">Trash</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="user_name">SpongeyBob</string>
+
+    <!-- menu items -->
+    <string name="nav_inbox">Messages</string>
+    <string name="nav_drafts">Drafts</string>
+    <string name="nav_sent">Sent messages</string>
+    <string name="nav_trash">Trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Give us feedback</string>
+    <string name="nav_open_drawer">Open Navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <!-- tab bar items -->
+    <string name="tab_faq">FAQ</string>
+    <string name="tab_assist">Chat Assist</string>
+    <string name="tab_ticket">Create Ticket</string>
+
+</resources>

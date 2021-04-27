@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicMania</string>
+
+    <string name="shuffle">Shuffle</string>
+    <string name="pause">Pause</string>
+
+    <!--songs-->
+    <string name="beat_it">Beat it - Michael Jackson</string>
+    <string name="baby_one_more_time">Baby One More Time - Britney Spears</string>
+    <string name="circle_of_life">Circle of Life - Lion King</string>
+    <string name="one_more_time">One More Time - Daft Punk</string>
+    <string name="yellow_submarine">Yellow Submarine - The Beatles</string>
+    <string name="man_i_feel_like_a_woman">Man I feel like a woman - Shania Twain</string>
+    <string name="stairway_to_heaven">Stairway to Heaven - Led Zeppelin</string>
+    <string name="island_in_the_sun">Island in the Sun - Weezer</string>
+    <string name="im_the_one">I"'"m the one - Justin Bieber</string>
+    <string name="gettin_jiggy_wit_it">Gettin"'" jiggy wit it - Will Smith</string>
+
+    <string-array name="Songs">
+        <item>beat_it</item>
+        <item>baby_one_more_time</item>
+        <item>circle_of_life</item>
+        <item>one_more_time</item>
+        <item>yellow_submarine</item>
+        <item>man_i_feel_like_a_woman</item>
+        <item>stairway_to_heaven</item>
+        <item>island_in_the_sun</item>
+        <item>im_the_one</item>
+        <item>gettin_jiggy_wit_it</item>
+
+    </string-array>
+
+</resources>

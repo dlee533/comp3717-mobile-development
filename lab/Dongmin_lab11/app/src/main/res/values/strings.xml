@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dongmin_lab11</string>
+    <string name="nav_open_drawer">open</string>
+    <string name="nav_close_drawer">close</string>
+    <string name="nav_start">Start Notification</string>
+    <string name="nav_stop">Stop Notification</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editText_loot_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/loot_1"
+        android:inputType="textPersonName"
+        android:text="@string/loot_empty" />
+
+    <EditText
+        android:id="@+id/editText_loot_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/loot_2"
+        android:inputType="textPersonName"
+        android:text="@string/loot_empty" />
+
+    <EditText
+        android:id="@+id/editText_loot_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/loot_3"
+        android:inputType="textPersonName"
+        android:text="@string/loot_empty" />
+
+    <Button
+        android:id="@+id/button_loot_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/loot_addLoot" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_loot_loots"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="224dp"
+        tools:layout_editor_absoluteY="328dp" />
+</LinearLayout>

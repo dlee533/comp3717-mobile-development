@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dongmin_lab8</string>
+    <string name="main_title">Attack the Monster!</string>
+    <string name="monster_defaultHp">HP 100/100</string>
+    <string name="main_monster">Fight Monster!</string>
+    <string name="main_loots">Loots List</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="fail_message">Try Again</string>
+    <string name="loot_base">   You found:</string>
+    <string name="loot_addLoot">Add Loot</string>
+    <string name="loot_1">loot1</string>
+    <string name="loot_2">loot2</string>
+    <string name="loot_3">loot3</string>
+    <string name="loot_lootBase">Loot Items:</string>
+    <string name="loot_empty" />
+    <string name="loot_back">Try Again!</string>
+    <string name="loot_receive">Receive Random Root</string>
+</resources>

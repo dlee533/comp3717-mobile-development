@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dongmin_lab3</string>
+    <string name="main_title">Animals with Androids by Dongmin</string>
+    <string name="main_horse">Horse</string>
+    <string name="main_cat">Cat</string>
+    <string name="breeds_empty" />
+    <string name="facts_defaultText" />
+</resources>

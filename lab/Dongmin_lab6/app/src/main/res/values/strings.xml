@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dongmin_lab6</string>
+    <string name="main_listView">List</string>
+    <string name="main_help">\?</string>
+    <string name="main_useCurrentLocation">My Location</string>
+    <string name="main_location">Location</string>
+    <string name="main_radius">Radius in km</string>
+    <string name="main_search">Search</string>
+    <string name="main_title">Find Popular Location</string>
+</resources>

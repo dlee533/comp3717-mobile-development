@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dongmin_midterm</string>
+    <string name="main_id">Dongmin Lee A01165938</string>
+    <string name="profile_city">City of Birth: Seoul</string>
+    <string name="movie_empty" />
+    <string name="movie_sampleName">avengers</string>
+</resources>

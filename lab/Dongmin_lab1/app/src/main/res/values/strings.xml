@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dongmin_lab1</string>
+    <string name="main_blue">BLUE</string>
+    <string name="main_yellow">YELLOW</string>
+    <string name="main_green">GREEN</string>
+    <string name="main_clearText">CLEAR</string>
+    <string name="main_emptyText" />
+    <string name="main_emptyInputMessage">Enter some text</string>
+</resources>
