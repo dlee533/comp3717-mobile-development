@@ -1,0 +1,23 @@
+com/bcit/menumania/MainActivity.java
+ com.bcit.menumania.MainActivity
+com/bcit/menumania/FeedbackActivity.java
+ com.bcit.menumania.FeedbackActivity
+com/bcit/menumania/ChatAssistFragment.java
+ com.bcit.menumania.ChatAssistFragment
+com/bcit/menumania/HelpActivity.java
+ com.bcit.menumania.HelpActivity
+ com.bcit.menumania.HelpActivity$SectionsPageAdapter
+com/bcit/menumania/TrashFragment.java
+ com.bcit.menumania.TrashFragment
+com/bcit/menumania/SentItemsFragment.java
+ com.bcit.menumania.SentItemsFragment
+com/bcit/menumania/BuildConfig.java
+ com.bcit.menumania.BuildConfig
+com/bcit/menumania/CreateTicketFragment.java
+ com.bcit.menumania.CreateTicketFragment
+com/bcit/menumania/FAQFragment.java
+ com.bcit.menumania.FAQFragment
+com/bcit/menumania/InboxFragment.java
+ com.bcit.menumania.InboxFragment
+com/bcit/menumania/DraftsFragment.java
+ com.bcit.menumania.DraftsFragment

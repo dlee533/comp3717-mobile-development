@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_drafts.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_drafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_toolbar.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sent_items.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_sent_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat_assist.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_chat_assist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_faq.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_trash.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sponge_pic.webp.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\drawable\\sponge_pic.webp"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_nav.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\menu\\menu_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inbox.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_ticket.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\fragment_create_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "C:\\Users\\dongl\\Google Drive\\School\\BCIT\\3T\\COMP3717_MobileDevelopmentWithAndroidTechnology\\Lectures\\MenuMania\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    }
+]
