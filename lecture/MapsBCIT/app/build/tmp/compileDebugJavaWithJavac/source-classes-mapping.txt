@@ -1,0 +1,5 @@
+com/bcit/mapsbcit/BuildConfig.java
+ com.bcit.mapsbcit.BuildConfig
+com/bcit/mapsbcit/MapsActivity.java
+ com.bcit.mapsbcit.MapsActivity
+ com.bcit.mapsbcit.MapsActivity$1
